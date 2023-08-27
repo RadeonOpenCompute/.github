@@ -1,5 +1,5 @@
-# AMD ROCm Platform
-ROCm™ is AMD's Open Source stack for GPU Computation. [More ...](https://rocm.docs.amd.com/en/latest/rocm.html) 
+# AMD ROCm™ Platform
+ROCm is AMD's Open Source stack for GPU Computation. [More ...](https://rocm.docs.amd.com/en/latest/rocm.html) 
 
 On GitHub, ROCm repositories are distributed across the following Organization:
 
