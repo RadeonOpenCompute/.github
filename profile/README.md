@@ -1,4 +1,4 @@
-# AMD ROCm™ Core Technologies GitHub Organization
+# AMD ROCm™ Core Technologies
 ROCm is AMD's Open Source stack for GPU Computation. On GitHub, ROCm repositories are distributed across the following Organization:
 
 - ROCm Core Technologies (this organization) contains low level (driver, system management, etc) components and the base repository of the [ROCm](https://github.com/RadeonOpenCompute/ROCm) project.
